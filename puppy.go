@@ -2,10 +2,11 @@ package puppy
 
 import (
 	"github.com/TylerDelRosario/dog"
+	"github.com/TylerDelRosario/pup/new"
 )
 
 func Bark() string {
-	return "Woof!!!"
+	return new.Test()
 }
 
 func Barks() string {
