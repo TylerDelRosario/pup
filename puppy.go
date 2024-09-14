@@ -5,7 +5,7 @@ import (
 )
 
 func Bark() string {
-	return "Woof!"
+	return "Woof!!"
 }
 
 func Barks() string {
