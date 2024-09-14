@@ -9,7 +9,7 @@ func Bark() string {
 }
 
 func Barks() string {
-	return "Woof! Woof! Woof!"
+	return "Woof!! Woof!! Woof!!"
 }
 
 func BigBark() string {
